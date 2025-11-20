@@ -1,9 +1,9 @@
 class Valkyrie < Formula
   desc "A CLI tool to convert SVG/XML into Compose ImageVector"
   homepage "https://github.com/ComposeGears/Valkyrie"
-  url "https://github.com/ComposeGears/Valkyrie/releases/download/cli-1.0.0/valkyrie-cli-1.0.0.zip"
-  version "1.0.0"
-  sha256 "8f3261f84e2cc46a58399376067f0684d7530e97d589849ceab9d9680493e6d0"
+  url "https://github.com/ComposeGears/Valkyrie/releases/download/cli-1.0.1/valkyrie-cli-1.0.1.zip"
+  version "1.0.1"
+  sha256 "c26c1de6c656988a73468b6f26834306e1f27eea283b9e449241090e2815bfca"
 
   depends_on "openjdk"
 
